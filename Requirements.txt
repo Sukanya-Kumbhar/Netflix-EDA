@@ -1,0 +1,9 @@
+Requirements:
+pandas
+numpy
+matplotlib
+seaborn
+
+Development Environment:
+Visual Studio Code (VS Code)
+Jupyter Notebook (.ipynb)
